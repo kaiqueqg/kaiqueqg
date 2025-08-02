@@ -1,9 +1,9 @@
-Full-Stack Developer with over 13 years of professional experience in C# .NET (Framework, .NET Core, and
-.NET 6), C/C++, ReactJS, JavaScript, CSS, SASS, TypeScript, SQL Server, and general knowledge of MongoDB
-and React Native.
-Recently, I expanded my skills in cloud services such as AWS (Lambda, API Gateway, DynamoDB, SNS, SQS),
-while deepening my knowledge in DevOps practices using Docker, Kubernetes, Jenkins, and Terraform.
-Native language: Portuguese. Fluent in English, intermediate in French, and beginner in Italian.
+Full-Stack Developer with over 13 years of professional experience in** C# .NET (Framework, .NET Core, and
+.NET 6)**,** C/C++**, **ReactJS**, **JavaScript**, **CSS**, **SASS**, **TypeScript**, **SQL Server**, and general knowledge of **MongoDB**
+and **Expo React Native**.
+Recently, I expanded my skills in cloud services such as **AWS** (Lambda, API Gateway, DynamoDB, SNS, SQS),
+while deepening my knowledge in **DevOps** practices using **Docker**, **Kubernetes**, **Jenkins**, and **Terraform**.
+Native language: **Portuguese**. Fluent in **English**, intermediate in **French**, and beginner in **Italian**.
 
 
 ![](https://komarev.com/ghpvc/?username=kaiqueqg&color=1D1D1D)
