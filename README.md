@@ -1,5 +1,5 @@
 Full-Stack Developer with over 13 years of professional experience in **C# .NET (Framework, .NET Core, and
-.NET 6), C/C++, ReactJS, JavaScript, CSS, SASS, TypeScript, SQL Server**, and general knowledge of **MongoDB**
+.NET 6), C/C++, ReactJS, JavaScript, CSS, SASS, <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />, <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />, SQL Server**, and general knowledge of **MongoDB**
 and **React Native.**
 Recently, I expanded my skills in cloud services such as** AWS (Lambda, API Gateway, DynamoDB, SNS, SQS)**,
 while deepening my knowledge in DevOps practices using **Docker**, **Kubernetes**, **Jenkins**, and **Terraform**.
