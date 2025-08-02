@@ -5,7 +5,7 @@ Recently, I expanded my skills in cloud services such as** AWS (Lambda, API Gate
 while deepening my knowledge in DevOps practices using **Docker**, **Kubernetes**, **Jenkins**, and **Terraform**.
 Native language: **Portuguese**. Fluent in **English**, intermediate in **French**, and beginner in **Italian**.
 
-![](https://komarev.com/ghpvc/?username=kaiqueqg&color=#1D1D1D)
+![](https://komarev.com/ghpvc/?username=kaiqueqg&color=1D1D1D)
 
 <!--
 **kaiqueqg/kaiqueqg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
