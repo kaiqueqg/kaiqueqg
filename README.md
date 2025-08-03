@@ -30,23 +30,40 @@ Native language: **Portuguese**. Fluent in **English**, intermediate in **French
 
 ###### How?
 
-- The tools and choices are not exactly the best for the job, but more of what I wanted to learn or practice. Some patterns or frameworks may be overkill, others may be unnecessary.
+- Using AWS free tier, Lambda, and all possible tools to use AWS Cloud and Serverless practices for the backend. Didn't use C# for lambda because of the high cold start time. Switched to NodeJs to practice and it's low cold start time.
+- For the personal website, I hosted in free and simple option, Github pages. Used Reactjs to keep the same "Javascript and Typescript". 
+- For the android app, React Native to keep the "same code" like React and NodeJs. 
 
 ### Repositories
 
 - ObjectivesServerless ( private for now )<br />
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS API Gateway](https://img.shields.io/badge/AWS-API_Gateway-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS-S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS SES](https://img.shields.io/badge/AWS-SES-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 - IdentityServerless ( private for now )<br />
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS API Gateway](https://img.shields.io/badge/AWS-API_Gateway-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS-S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS SES](https://img.shields.io/badge/AWS-SES-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
 - objectives ( private for now ) <br />
 ![Expo](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white&style=flat-square)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 - cv <br />
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![React](https://img.shields.io/badge/React_Js-20232A?logo=react&logoColor=61DAFB&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=flat-square)
 
@@ -83,14 +100,15 @@ Native language: **Portuguese**. Fluent in **English**, intermediate in **French
 
 ###### How?
 
-- The tools and choices are not exactly to best for the job, but more of what I wanted to learn or practice. Some patterns or frameworks may be overkill, others may be unnecessary.
+- The tools and choices are not exactly the best for the job, but more of what I wanted to learn or practice. Some patterns or frameworks may be overkill, others may be unnecessary.
 
 ##
 
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![React](https://img.shields.io/badge/React_Js-20232A?logo=react&logoColor=61DAFB&style=flat-square)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=flat-square)
 ![Expo](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
@@ -99,3 +117,10 @@ Native language: **Portuguese**. Fluent in **English**, intermediate in **French
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=flat-square)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
+
+![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS API Gateway](https://img.shields.io/badge/AWS-API_Gateway-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS-S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS SES](https://img.shields.io/badge/AWS-SES-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
