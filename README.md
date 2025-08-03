@@ -9,7 +9,6 @@ Recently, I expanded my skills in cloud services such as **AWS** (Lambda, API Ga
 while deepening my knowledge in **DevOps** practices using **Docker**, **Kubernetes**, **Jenkins**, and **Terraform**.
 Native language: **Portuguese**. Fluent in **English**, intermediate in **French**, and beginner in **Italian**.
 <br />
-<br />
 
 # Objectives List
 ###### A personal use project and knowledge showcase (replacing deprecated on docker C#) using: AWS Cloud (NodeJs Lambda - DynamoDb - Cloud Formation - APIGateway - S3 - SES), React js, Typescript, SASS, Expo React Native.
