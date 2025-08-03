@@ -1,7 +1,7 @@
 #### 👋 Hi there, I'm Kaique!
 
 Full-Stack Developer with over 13 years of professional experience in **C# .NET** (Framework, .NET Core, and
-.NET 6),** C/C++**, **ReactJS**, **JavaScript**, **CSS**, **SASS**, **TypeScript**, **SQL Server**, and general knowledge of **MongoDB**
+.NET 6), **C/C++**, **ReactJS**, **JavaScript**, **CSS**, **SASS**, **TypeScript**, **SQL Server**, and general knowledge of **MongoDB**
 and **Expo React Native**.
 <br />
 <br />
@@ -11,19 +11,58 @@ Native language: **Portuguese**. Fluent in **English**, intermediate in **French
 <br />
 <br />
 
-![](https://komarev.com/ghpvc/?username=kaiqueqg&color=1D1D1D)
+# Grocery list API (grocerylist-api)
 
-<!--
-**kaiqueqg/kaiqueqg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### A personal use project and knowledge showcase, using Docker, C# net core, ReactJs, Scss, MongoDb and Redis.
 
-Here are some ideas to get you started:
+### To run
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Use this docker-compose: [compose-prod.yml](https://github.com/kaiqueqg/grocerylist-api/blob/main/compose-prod.yml)
+
+- Api address: "http://ip-computer-running-api:5000/api"
+- username: **test**
+- password: **test**
+
+### To use on cellphone 
+
+It was only tested **for now**, on my device with a screen of 1080 x 2280 pixels, 19:9 ratio (~438 ppi density).
+
+[GroceryListApp.apk](https://github.com/kaiqueqg/grocerylist-app/blob/main/apk/GroceryListApp.apk)
+
+### Explanation
+
+###### Why?
+
+- I made this project because I was using Google Keep to help with my grocery list but it lack some features that would help me as a user e.g. :
+  - Easy to use categories, not complicated like other apps and not easy to mess like pulling the item to the side(tab) like Keep.
+  - On Keep, you need to get inside the setting to change the "move to bottom when checked". I needed a easy access button for that.
+  - A "locking" mechanism to inhibit unwanted changes to the list when using the phone.
+
+###### How?
+
+- The tools and choices are not exactly to best for the job, but more of what I wanted to learn or practice. Some patterns or frameworks may be overkill, others may be unnecessary.
+
+# Grocery list android app (grocerylist-app)
+
+#### APK 
+
+**React-native android app** made to be used **alone** or with the [API](https://github.com/kaiqueqg/grocerylist-api)
+<br />
+[GroceryListApp.apk](https://github.com/kaiqueqg/grocerylist-app/blob/main/apk/GroceryListApp.apk)
+
+
+#### Test:
+Api address: "http://ip-computer-running-api:5000/api"
+<br />
+username: test <br />
+password: test
+
+``` diff
+- For now it was only tested on my device with a screen of 1080 x 2280 
+pixels, 19:9 ratio (~438 ppi density).
+```
+
+# Grocery list Front End (grocerylist-front)
+**start:** npm run start
+
+
