@@ -11,58 +11,73 @@ Native language: **Portuguese**. Fluent in **English**, intermediate in **French
 <br />
 <br />
 
-# Grocery list API (grocerylist-api)
+# Objectives List
+#### A personal use project and knowledge showcase (replacing deprecated on docker C#) using: AWS Cloud (NodeJs Lambda - DynamoDb - Cloud Formation - APIGateway - S3 - SES), React js, Typescript, SASS, Expo React Native.
 
-#### A personal use project and knowledge showcase, using Docker, C# net core, ReactJs, Scss, MongoDb and Redis.
+### Repositories
 
-### To run
+###### ObjectivesServerless ( private for now )
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
 
-Use this docker-compose: [compose-prod.yml](https://github.com/kaiqueqg/grocerylist-api/blob/main/compose-prod.yml)
+###### IdentityServerless ( private for now )
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square)
 
-- Api address: "http://ip-computer-running-api:5000/api"
-- username: **test**
-- password: **test**
+###### objectives ( private for now )
+![Expo](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white&style=flat-square)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+###### cv
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=flat-square)
 
-### To use on cellphone 
 
-It was only tested **for now**, on my device with a screen of 1080 x 2280 pixels, 19:9 ratio (~438 ppi density).
+# Grocery List (deprecated)
+#### A personal use project and knowledge showcase, using Docker, C# net core, Expo React Native, ReactJs, SCSS, MongoDb and Redis.
 
-[GroceryListApp.apk](https://github.com/kaiqueqg/grocerylist-app/blob/main/apk/GroceryListApp.apk)
+### Repositories
 
-### Explanation
+###### groceylist-api
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 
+###### groceylist-app
+![Expo](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white&style=flat-square)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+
+###### groceylist-front
+![React](https://img.shields.io/badge/React_Js-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=flat-square)
+<br />
+
+## 
 ###### Why?
 
-- I made this project because I was using Google Keep to help with my grocery list but it lack some features that would help me as a user e.g. :
-  - Easy to use categories, not complicated like other apps and not easy to mess like pulling the item to the side(tab) like Keep.
-  - On Keep, you need to get inside the setting to change the "move to bottom when checked". I needed a easy access button for that.
+- I made this project because I was using **Google Keep** to help with my grocery list but it lack some features that would help me as a user e.g. :
+  - Easy to use categories, not complicated like other apps and not easy to mess it up; Like pulling the item to the side(tab) that happens often with Google Keep.
+  - On Google Keep, you need to open the setting to change the "move to bottom when checked". I needed a easy access button for that.
   - A "locking" mechanism to inhibit unwanted changes to the list when using the phone.
 
 ###### How?
 
 - The tools and choices are not exactly to best for the job, but more of what I wanted to learn or practice. Some patterns or frameworks may be overkill, others may be unnecessary.
 
-# Grocery list android app (grocerylist-app)
+##
 
-#### APK 
-
-**React-native android app** made to be used **alone** or with the [API](https://github.com/kaiqueqg/grocerylist-api)
-<br />
-[GroceryListApp.apk](https://github.com/kaiqueqg/grocerylist-app/blob/main/apk/GroceryListApp.apk)
-
-
-#### Test:
-Api address: "http://ip-computer-running-api:5000/api"
-<br />
-username: test <br />
-password: test
-
-``` diff
-- For now it was only tested on my device with a screen of 1080 x 2280 
-pixels, 19:9 ratio (~438 ppi density).
-```
-
-# Grocery list Front End (grocerylist-front)
-**start:** npm run start
-
-
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![ReactNative](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=flat-square)
+![Expo](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
+![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
