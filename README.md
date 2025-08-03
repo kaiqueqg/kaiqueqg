@@ -1,4 +1,8 @@
 #### 👋 Hi there, I'm Kaique!
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-green?style=flat-square&logo=amazonaws&logoColor=white)
+![English](https://img.shields.io/badge/English-Fluent-green?style=flat-square&logo=amazonaws&logoColor=white)
+![French](https://img.shields.io/badge/French-Medium-yellow?style=flat-square&logo=amazonaws&logoColor=white)
+![Italian](https://img.shields.io/badge/Italian-Begginer-red?style=flat-square&logo=amazonaws&logoColor=white)
 
 Full-Stack Developer with over 13 years of professional experience in **C# .NET** (Framework, .NET Core, and
 .NET 6), **C/C++**, **ReactJS**, **JavaScript**, **CSS**, **SASS**, **TypeScript**, **SQL Server**, and general knowledge of **MongoDB**
@@ -7,7 +11,6 @@ and **Expo React Native**.
 <br />
 Recently, I expanded my skills in cloud services such as **AWS** (Lambda, API Gateway, DynamoDB, SNS, SQS),
 while deepening my knowledge in **DevOps** practices using **Docker**, **Kubernetes**, **Jenkins**, and **Terraform**.
-Native language: **Portuguese**. Fluent in **English**, intermediate in **French**, and beginner in **Italian**.
 <br />
 
 # Objectives List
