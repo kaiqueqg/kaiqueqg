@@ -29,10 +29,10 @@ Native language: **Portuguese**. Fluent in **English**, intermediate in **French
 
 ###### How?
 
-- Using AWS free tier, Lambda, and all possible tools to use AWS Cloud and Serverless practices for the backend. Didn't use C# for lambda because of the high cold start time. Switched to NodeJs to practice and it's low cold start time.
-- Separated into two APIs: Identity and Objectives. The former is intended for use in this and future projects, such as my IoT gadget; the latter for the actual Objectives running on my personal website.
-- For the personal website, I hosted in free and simple option, Github pages. Used Reactjs to keep the same "Javascript and Typescript". 
-- For the android app, React Native to keep the "same code" like React and NodeJs. 
+- Using AWS free tier, Lambda, and all possible tools to use AWS Cloud and **Serverless** practices for the backend. Didn't use C# for lambda because of the high cold start time. Switched to NodeJs to practice and it's low cold start time.
+- Separated into **two APIs** : Identity and Objectives. The former is intended for use in this and future projects, such as my IoT gadget; the latter for the actual Objectives running on my personal website.
+- For the **personal website**, I hosted in free and simple option, Github pages. Used Reactjs to keep the same "Javascript and Typescript". 
+- For the **android app**, React Native to keep the "same code" like React and NodeJs. 
 
 ### Repositories
 
