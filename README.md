@@ -1,5 +1,5 @@
 #### 👋 Hi there, I'm Kaique!
-![Portuguese](https://img.shields.io/badge/Portuguese-Native-green?style=flat-square&logo=amazonaws&logoColor=white)
+![Portuguese](https://img.shields.io/badge/Portuguese-Native-lightgreen?style=flat-square&logo=amazonaws&logoColor=white)
 ![English](https://img.shields.io/badge/English-Fluent-green?style=flat-square&logo=amazonaws&logoColor=white)
 ![French](https://img.shields.io/badge/French-Medium-yellow?style=flat-square&logo=amazonaws&logoColor=white)
 ![Italian](https://img.shields.io/badge/Italian-Begginer-red?style=flat-square&logo=amazonaws&logoColor=white)
