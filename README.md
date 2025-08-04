@@ -13,7 +13,7 @@ Recently, I expanded my skills in cloud services such as **AWS** (Lambda, API Ga
 while deepening my knowledge in **DevOps** practices using **Docker**, **Kubernetes**, **Jenkins**, and **Terraform**.
 <br />
 
-# Objectives List
+# ✔️ Objectives List
 ###### A personal use project and knowledge showcase (replacing deprecated on docker C#) using: AWS Cloud (NodeJs Lambda - DynamoDb - Cloud Formation - APIGateway - S3 - SES), React js, Typescript, SASS, Expo React Native.
 
 ###### Why?
@@ -73,7 +73,7 @@ while deepening my knowledge in **DevOps** practices using **Docker**, **Kuberne
 ![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=flat-square)
 
 
-# Grocery List (deprecated)
+# ❌ Grocery List (deprecated 📦)
 #### A personal use project and knowledge showcase, using Docker, C# net core, Expo React Native, ReactJs, SCSS, MongoDb and Redis.
 
 ### Repositories
