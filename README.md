@@ -39,7 +39,7 @@ while deepening my knowledge in **DevOps** practices using **Docker**, **Kuberne
 
 ### Repositories
 
-- ObjectivesServerless ( private for now )<br />
+- 🔒 ObjectivesServerless ( private for now )<br />
 ![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -50,7 +50,7 @@ while deepening my knowledge in **DevOps** practices using **Docker**, **Kuberne
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-- IdentityServerless ( private for now )<br />
+- 🔒 IdentityServerless ( private for now )<br />
 ![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -61,7 +61,7 @@ while deepening my knowledge in **DevOps** practices using **Docker**, **Kuberne
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-- objectives ( private for now ) <br />
+- 🔒 objectives ( private for now ) <br />
 ![Expo](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white&style=flat-square)
 ![ReactNative](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB&style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square)
