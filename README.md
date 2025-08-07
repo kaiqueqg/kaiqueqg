@@ -43,7 +43,7 @@ while deepening my knowledge in **DevOps** practices using **Docker**, **Kuberne
 
 ### Repositories
 
-- ObjectivesServerless <br />
+- 🔒 ObjectivesServerless ( private for now )<br />
 ![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
@@ -78,7 +78,7 @@ while deepening my knowledge in **DevOps** practices using **Docker**, **Kuberne
 # ❌ Grocery List (deprecated 📦)
 #### A personal use project and knowledge showcase, using Docker, C# net core, Expo React Native, ReactJs, SCSS, MongoDb and Redis.
 
-### Repositories
+###### Repositories
 
 - groceylist-api <br />
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
@@ -97,7 +97,6 @@ while deepening my knowledge in **DevOps** practices using **Docker**, **Kuberne
 ![SASS](https://img.shields.io/badge/SASS-CC6699?logo=sass&logoColor=white&style=flat-square)
 <br />
 
-## 
 ###### Why?
 
 - I made this project because I was using **Google Keep** to help with my grocery list but it lacks some features that would help me as a user e.g. :
@@ -108,6 +107,32 @@ while deepening my knowledge in **DevOps** practices using **Docker**, **Kuberne
 ###### How?
 
 - The tools and choices are not exactly the best for the job, but more of what I wanted to learn or practice. Some patterns or frameworks may be overkill, others may be unnecessary.
+
+# AllMobileDevice
+
+#### A C++ project for a physical device using a Arduino like micro-controler a several to measure several things like:
+
+- Ambient Temperature.
+- Infra-red temperature.
+- High temperature and low temperature probes.
+- Ambient humidity
+- Ambient preassure
+- Heart Rate
+- Visible light intensity
+- UV light intensity
+- 9DOF
+- Air quality
+- Wifi to upload data to AWS Api.
+
+###### Repositories
+- AllMobileDevice <br />
+![CPLUSPLUS](https://img.shields.io/badge/C++-512BD4?logo=cplusplus&logoColor=white&style=flat-square)
+
+###### Why?
+- I made this device to use all my eletronics components in one device and be able to measure several things, like movement while sleeping, ambient weather, food and oven temperatures, body temperature for whenI sick and so on...
+
+##### How?
+- using an ESP32-C3 and several sensors.
 
 ##
 
