@@ -15,7 +15,8 @@ while deepening my knowledge in **DevOps** practices using **Docker**, **Kuberne
 ![Italian](https://img.shields.io/badge/Italian-Begginer-red?style=flat-square&logo=amazonaws&logoColor=white)
 
 # ✔️ Objectives List
-###### A personal use project and knowledge showcase (replacing deprecated on docker C#) using: AWS Cloud (NodeJs Lambda - DynamoDb - Cloud Formation - APIGateway - S3 - SES), React js, Typescript, SASS, Expo React Native.
+#### ⚠ Ask me on linkedin for access to https://kaiqueqg.github.io/cv/#/objectiveslist to test it.
+#### A personal use project and knowledge showcase (replacing deprecated on docker C#) using: AWS Cloud (NodeJs Lambda - DynamoDb - Cloud Formation - APIGateway - S3 - SES), React js, Typescript, SASS, Expo React Native.
 
 ###### Why?
 
