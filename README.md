@@ -43,7 +43,7 @@ while deepening my knowledge in **DevOps** practices using **Docker**, **Kuberne
 
 ### Repositories
 
-- 🔒 ObjectivesServerless ( private for now )<br />
+- ObjectivesServerless <br />
 ![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS CloudFormation](https://img.shields.io/badge/AWS-CloudFormation-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![AWS DynamoDB](https://img.shields.io/badge/AWS-DynamoDB-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
