@@ -34,9 +34,9 @@ while deepening my knowledge in **DevOps** practices using **Docker**, **Kuberne
 
 ###### How?
 
-- Using **AWS** free tier, Lambda, and all possible tools to use AWS Cloud and **Serverless** practices for the backend. 
+- Using **AWS** free tier Lambda, and all possible tools to use AWS Cloud and **Serverless** practices for the backend. 
 - **NodeJs** because of low cold start time instead of C#.
-- **IdentityServerless** is intended for use in this and future projects, such as my IoT gadget, authentication, authorization, max server calls, Role and so on...
+- **IdentityServerless** is intended for use in this and future projects, such as my IoT gadget, authentication, authorization, max server calls, Status, Role and so on...
 - **ObjectivesServerless** for the actual Objectives running on my personal website.
 - CV for the **personal website**, I hosted in a free and simple option, Github pages. Used Reactjs to keep the same "Javascript and Typescript". 
 - For the **android app**, React Native to keep the "same code" like React and NodeJs. 
@@ -78,6 +78,10 @@ while deepening my knowledge in **DevOps** practices using **Docker**, **Kuberne
 # ❌ Grocery List (deprecated 📦)
 #### A personal use project and knowledge showcase, using Docker, C# net core, Expo React Native, ReactJs, SCSS, MongoDb and Redis.
 
+###### Images
+https://hub.docker.com/r/kaiqueqg/grocerylist-api <br/>
+https://hub.docker.com/r/kaiqueqg/grocerylist-front
+
 ###### Repositories
 
 - groceylist-api <br />
@@ -85,6 +89,7 @@ while deepening my knowledge in **DevOps** practices using **Docker**, **Kuberne
 ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+
 
 - groceylist-app <br />
 ![Expo](https://img.shields.io/badge/Expo-000000?logo=expo&logoColor=white&style=flat-square)
